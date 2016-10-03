@@ -1,0 +1,2 @@
+serviceClass: org.machek.elro.client.PowerService
+path: E9434285CE5BED5EBB4B1E83EBB0537D.gwt.rpc

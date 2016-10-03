@@ -1,0 +1,19 @@
+/** Add css rules here for your application. */
+
+.onButton {
+	color: green;
+}
+
+.offButton {
+	color: red;
+}
+
+.deleteButton {
+	color: red;
+	font-weight: bold;
+}
+
+.addButton {
+	color: green;
+	font-weight: bold;
+}
